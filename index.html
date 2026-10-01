@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HeyTora for Windows</title>
+<meta name="description" content="HeyTora is an AI companion for Windows that hears you, sees your screen and points at things to show you how. Download the test build.">
+<style>
+  :root {
+    --bg: #F4F6FA;
+    --card: #FFFFFF;
+    --ink: #121722;
+    --dim: #5A6273;
+    --line: #DCE1EA;
+    --blue: #2F78F0;
+    --blue-hi: #5A9EFF;
+    --blue-deep: #245CE8;
+    --note: #FFF7E6;
+    --note-line: #F1D9A6;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0E1015; --card: #161921; --ink: #F2F4F8; --dim: #98A0B3; --line: #2A303C;
+      --blue: #4C94FF; --blue-hi: #86C0FF; --blue-deep: #2F6CF6; --note: #221C10; --note-line: #4A3B1E;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.55 "Segoe UI Variable Text", "Segoe UI", system-ui, -apple-system, sans-serif;
+    padding-inline: 16px; padding-block: 56px 72px;
+  }
+  main { max-width: 720px; margin: 0 auto; display: grid; gap: 28px; }
+  header { display: grid; gap: 14px; }
+  .brand { display: flex; align-items: center; gap: 12px; }
+  .brand svg { flex: none; }
+  h1 { font-size: 40px; line-height: 1.1; margin: 0; letter-spacing: -0.02em; }
+  .lede { font-size: 19px; color: var(--dim); margin: 0; max-width: 60ch; }
+  .get {
+    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+    padding: 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 16px 24px;
+  }
+  .button {
+    display: inline-flex; align-items: center; gap: 10px;
+    background: linear-gradient(180deg, var(--blue-hi), var(--blue-deep));
+    color: #fff; text-decoration: none; font-weight: 600; font-size: 17px;
+    padding: 14px 22px; border-radius: 12px; box-shadow: 0 6px 18px rgba(36, 92, 232, 0.28);
+  }
+  .button:hover { filter: brightness(1.06); }
+  .button:focus-visible { outline: 3px solid var(--blue-hi); outline-offset: 3px; }
+  .meta { color: var(--dim); font-size: 14px; display: grid; gap: 2px; }
+  .meta a { color: var(--blue); }
+  h2 { font-size: 20px; margin: 0 0 10px; }
+  ol { margin: 0; padding-left: 22px; display: grid; gap: 10px; }
+  .note {
+    background: var(--note); border: 1px solid var(--note-line); border-radius: 12px;
+    padding: 14px 16px; font-size: 15px;
+  }
+  kbd {
+    font: 600 13px "Segoe UI", system-ui, sans-serif; border: 1px solid var(--line);
+    border-bottom-width: 2px; border-radius: 6px; padding: 1px 6px; background: var(--card);
+  }
+  footer { color: var(--dim); font-size: 13px; display: grid; gap: 4px; border-top: 1px solid var(--line); padding-top: 18px; }
+  code { font-family: "Cascadia Mono", Consolas, monospace; font-size: 12px; word-break: break-all; }
+  @media (max-width: 520px) { h1 { font-size: 32px; } .lede { font-size: 17px; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="brand">
+      <!-- the buddy cursor -->
+      <svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true">
+        <defs>
+          <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#86C0FF"/><stop offset=".55" stop-color="#3D8BFF"/><stop offset="1" stop-color="#245CE8"/>
+          </linearGradient>
+          <radialGradient id="glow"><stop offset="0" stop-color="#3D8BFF" stop-opacity=".35"/><stop offset="1" stop-color="#3D8BFF" stop-opacity="0"/></radialGradient>
+        </defs>
+        <circle cx="20" cy="20" r="19" fill="url(#glow)"/>
+        <path transform="rotate(-35 20 20)" d="M20 7.5 Q21 6 22 7.6 L30.6 25 Q31.4 26.6 29.6 26.6 L10.4 26.6 Q8.6 26.6 9.4 25 Z" fill="url(#g)"/>
+      </svg>
+      <h1>HeyTora</h1>
+    </div>
+    <p class="lede">An AI companion for Windows. Hold a key and ask - Tora hears you, looks at your screen when it needs to, and points at what to click to show you how.</p>
+  </header>
+
+  <section class="get" aria-label="Download">
+    <a class="button" href="https://github.com/Qwickly/heytora/releases/latest/download/Setup-HeyTora.exe">
+      <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M11 3h2v10.2l3.6-3.6 1.4 1.4-6 6-6-6 1.4-1.4 3.6 3.6z M5 19h14v2H5z"/></svg>
+      Download for Windows
+    </a>
+    <div class="meta">
+      <span>Version 1.5.0 · 192 MB · Windows 10 and 11, 64-bit</span>
+      <span>A test build. <a href="https://github.com/Qwickly/heytora/releases">All versions</a></span>
+    </div>
+  </section>
+
+  <section>
+    <h2>Getting started</h2>
+    <ol>
+      <li><strong>Run <code>Setup-HeyTora.exe</code>.</strong> It installs just for you - no admin password. Windows may say it doesn't recognise the app, because this test build isn't signed yet: click <strong>More info</strong>, then <strong>Run anyway</strong>. Your browser may also ask you to <strong>Keep</strong> the download.</li>
+      <li><strong>Get a free Google Gemini API key</strong> at <a href="https://aistudio.google.com/app/apikey">aistudio.google.com/app/apikey</a> and paste it when HeyTora asks. What you use is on your own key.</li>
+      <li><strong>Hold <kbd>Ctrl</kbd> + <kbd>Win</kbd> and talk.</strong> Allow the microphone the first time.</li>
+    </ol>
+  </section>
+
+  <p class="note">HeyTora sends what you say - and, when it needs to look, a picture of your screen - to Google's Gemini using your API key, and web searches to a search engine. Uninstall any time from Settings &rarr; Apps.</p>
+
+  <footer>
+    <span>HeyTora · MIT licence · test build 1.5.0</span>
+    <span>SHA-256 of Setup-HeyTora.exe: <code>1fb70877e689a1eb408475ade1a43c4e0499b52bc2142a65eef7623ad8c6119c</code></span>
+  </footer>
+</main>
+</body>
+</html>
