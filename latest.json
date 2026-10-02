@@ -1,9 +1,9 @@
 {
-  "version": "1.6.5",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.6.5/Setup-HeyTora.exe",
-  "sha256": "866b1944914bf639b82e48f50c60ea25491768f1f32937cdcfe3ab3abed2d850",
-  "size": 201007921,
-  "notes": "HeyTora now updates itself: new versions download in the background and install over the app - just restart, or it happens next time HeyTora starts.",
+  "version": "1.6.6",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.6.6/Setup-HeyTora.exe",
+  "sha256": "121399fae07db9ee5efa05ed0a0cdd37e1bb97844eba8fe969f6c3c71a513698",
+  "size": 201018719,
+  "notes": "A Check for updates button - in the tray menu and in Settings.",
   "min_version": "",
-  "published": "2026-10-02T11:13:23+00:00"
+  "published": "2026-10-02T11:52:37+00:00"
 }
