@@ -1,9 +1,9 @@
 {
-  "version": "1.6.6",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.6.6/Setup-HeyTora.exe",
-  "sha256": "121399fae07db9ee5efa05ed0a0cdd37e1bb97844eba8fe969f6c3c71a513698",
-  "size": 201018719,
-  "notes": "A Check for updates button - in the tray menu and in Settings.",
+  "version": "1.6.7",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.6.7/Setup-HeyTora.exe",
+  "sha256": "5c87e723f01b05ac335ea63fa153263d2a057166f1b2a8b476c3e01be06da0ad",
+  "size": 202529067,
+  "notes": "Tora now lives at the edge of your screen: a small bar shows when she's listening, thinking and talking, with her answer in a card you can copy - drag it to any side. Her drawings now wear the colour you picked for her. Plus a brand-new first launch and app design.",
   "min_version": "",
-  "published": "2026-10-02T11:52:37+00:00"
+  "published": "2026-10-04T12:41:42+00:00"
 }
