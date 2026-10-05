@@ -1,9 +1,9 @@
 {
-  "version": "1.6.8",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.6.8/Setup-HeyTora.exe",
-  "sha256": "d1e3982013ff0f1a016c673ef4e1a88ed9d2f12a2c09d5f604186126e0dd0a25",
-  "size": 202513986,
-  "notes": "Fixes updating: HeyTora no longer crashes when it reopens after an update, and an update now shows a small progress window while it installs.",
+  "version": "1.6.9",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.6.9/Setup-HeyTora.exe",
+  "sha256": "0abe606684bcd16a28c12a257381100327b5ee30ab2e66226f318b38485bc9ca",
+  "size": 202685104,
+  "notes": "Tora now opens websites in the browser you're already using, as a new tab, and stays on what you just asked instead of getting stuck on something earlier.",
   "min_version": "",
-  "published": "2026-10-04T14:09:15+00:00"
+  "published": "2026-10-05T09:47:22+00:00"
 }
