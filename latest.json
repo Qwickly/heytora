@@ -1,9 +1,9 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.0/Setup-HeyTora.exe",
-  "sha256": "04f914f457f25b168b5bcea14a422851ba6217361a0bc0c268599b1c8afd27a5",
-  "size": 202699459,
-  "notes": "HeyTora is much lighter on your PC: Tora's cursor no longer redraws the whole screen 60 times a second, so laptops stay cool and quiet. It also no longer closes by itself when something goes wrong, the agents now work with Claude, and opening HeyTora again brings up the one that is already running.",
+  "version": "1.7.1",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.1/Setup-HeyTora.exe",
+  "sha256": "3e95e7abda754e3cf2030fc076b22d7bfae6eda57310f1b105b4f3c96dc7d967",
+  "size": 202762448,
+  "notes": "Tora shows you instead of telling you: ask what to do next and she draws one arrow and says one line, her rings land on the real button, and most screen questions are answered faster on a lighter model. Agents can now make pictures - posters, social posts, banners - and a new Marketing pack plans whole campaigns: posts, ads and emails, each with its picture.",
   "min_version": "",
-  "published": "2026-10-05T14:05:04+00:00"
+  "published": "2026-10-05T21:05:37+00:00"
 }
