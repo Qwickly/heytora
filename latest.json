@@ -1,9 +1,9 @@
 {
-  "version": "1.6.9",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.6.9/Setup-HeyTora.exe",
-  "sha256": "0abe606684bcd16a28c12a257381100327b5ee30ab2e66226f318b38485bc9ca",
-  "size": 202685104,
-  "notes": "Tora now opens websites in the browser you're already using, as a new tab, and stays on what you just asked instead of getting stuck on something earlier.",
+  "version": "1.7.0",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.0/Setup-HeyTora.exe",
+  "sha256": "04f914f457f25b168b5bcea14a422851ba6217361a0bc0c268599b1c8afd27a5",
+  "size": 202699459,
+  "notes": "HeyTora is much lighter on your PC: Tora's cursor no longer redraws the whole screen 60 times a second, so laptops stay cool and quiet. It also no longer closes by itself when something goes wrong, the agents now work with Claude, and opening HeyTora again brings up the one that is already running.",
   "min_version": "",
-  "published": "2026-10-05T09:47:22+00:00"
+  "published": "2026-10-05T14:05:04+00:00"
 }
