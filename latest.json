@@ -1,9 +1,9 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.1/Setup-HeyTora.exe",
-  "sha256": "3e95e7abda754e3cf2030fc076b22d7bfae6eda57310f1b105b4f3c96dc7d967",
-  "size": 202762448,
-  "notes": "Tora shows you instead of telling you: ask what to do next and she draws one arrow and says one line, her rings land on the real button, and most screen questions are answered faster on a lighter model. Agents can now make pictures - posters, social posts, banners - and a new Marketing pack plans whole campaigns: posts, ads and emails, each with its picture.",
+  "version": "1.7.2",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.2/Setup-HeyTora.exe",
+  "sha256": "0ad7e4d7d9e46269c0c5d927a8883f90d6451f7f9193e7853b4f6e7fa47ded2a",
+  "size": 203683460,
+  "notes": "Tora answers faster and for less: she draws the answer sooner, rings the real button, and looks at the monitor you point at. Also new: sign in and sign up from the app, and invite friends.",
   "min_version": "",
-  "published": "2026-10-05T21:05:37+00:00"
+  "published": "2026-10-07T21:05:26+00:00"
 }
