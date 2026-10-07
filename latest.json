@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.2/Setup-HeyTora.exe",
-  "sha256": "0ad7e4d7d9e46269c0c5d927a8883f90d6451f7f9193e7853b4f6e7fa47ded2a",
-  "size": 203683460,
-  "notes": "Tora answers faster and for less: she draws the answer sooner, rings the real button, and looks at the monitor you point at. Also new: sign in and sign up from the app, and invite friends.",
+  "version": "1.7.3",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.3/Setup-HeyTora.exe",
+  "sha256": "e038e7a0a26d0f2ca54f827a9a4480cbe53f88fad55d67612f3b4ee001c0f79c",
+  "size": 203704932,
+  "notes": "HeyTora's own icon on your desktop, Start menu and taskbar.",
   "min_version": "",
-  "published": "2026-10-07T21:05:26+00:00"
+  "published": "2026-10-07T21:46:22+00:00"
 }
