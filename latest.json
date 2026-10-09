@@ -1,9 +1,9 @@
 {
-  "version": "1.7.4",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.4/Setup-HeyTora.exe",
-  "sha256": "f3e4dd43bec29abd5d09fa36095a3ca0ffc04e5bec2f0c563d7fdb9bcf52a65c",
-  "size": 203703600,
-  "notes": "Tora notices when you've done the step - no more stale answers - and starts fresh after a break. Questions go out at once and looks take one screenshot, so answers come sooner.",
+  "version": "1.7.5",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.5/Setup-HeyTora.exe",
+  "sha256": "d779b193f6c15be05a41b6f667549be44f2bd285cbc53faceb5bb6bf592da600",
+  "size": 203730945,
+  "notes": "Tora no longer goes quiet mid-answer when a session runs long, says straight away when she didn't catch you, and tells you plainly when the problem is on HeyTora's side.",
   "min_version": "",
-  "published": "2026-10-09T13:05:52+00:00"
+  "published": "2026-10-09T13:51:05+00:00"
 }
