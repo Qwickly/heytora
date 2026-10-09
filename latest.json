@@ -1,9 +1,9 @@
 {
-  "version": "1.7.3",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.3/Setup-HeyTora.exe",
-  "sha256": "e038e7a0a26d0f2ca54f827a9a4480cbe53f88fad55d67612f3b4ee001c0f79c",
-  "size": 203704932,
-  "notes": "HeyTora's own icon on your desktop, Start menu and taskbar.",
+  "version": "1.7.4",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.4/Setup-HeyTora.exe",
+  "sha256": "f3e4dd43bec29abd5d09fa36095a3ca0ffc04e5bec2f0c563d7fdb9bcf52a65c",
+  "size": 203703600,
+  "notes": "Tora notices when you've done the step - no more stale answers - and starts fresh after a break. Questions go out at once and looks take one screenshot, so answers come sooner.",
   "min_version": "",
-  "published": "2026-10-07T21:46:22+00:00"
+  "published": "2026-10-09T13:05:52+00:00"
 }
