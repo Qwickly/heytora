@@ -1,9 +1,9 @@
 {
-  "version": "1.7.7",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.7/Setup-HeyTora.exe",
-  "sha256": "f47e5a7dc7c9679b3920c193eed638b794fedd3cfe334aca7191e909ff6b4932",
-  "size": 203719288,
-  "notes": "Your agents at the top right are now clear cards - the job, what it's doing, how far it has got - that tidy themselves away when done. Click one to open that job.",
+  "version": "1.7.8",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.8/Setup-HeyTora.exe",
+  "sha256": "eed5c25ee1568b2c65fea4f4000bcf756aa007fb0fa49bc2271f580e511de8cd",
+  "size": 203728640,
+  "notes": "Your agents at the top right are small, lively circles again - an icon for each kind of job, a ring that fills as it works, and a little celebration when it's done. Hover for details, click to open the job.",
   "min_version": "",
-  "published": "2026-10-10T10:52:57+00:00"
+  "published": "2026-10-10T11:53:57+00:00"
 }
