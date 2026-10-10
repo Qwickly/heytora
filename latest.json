@@ -1,9 +1,9 @@
 {
-  "version": "1.7.6",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.6/Setup-HeyTora.exe",
-  "sha256": "e0634a2b501cda147e3dacc061c70d7e96fdf664870beade731dc935acf8bedf",
-  "size": 203709932,
-  "notes": "Looking at your screen is much faster: about a second instead of many, with a backup model that takes over when Google's is busy.",
+  "version": "1.7.7",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.7/Setup-HeyTora.exe",
+  "sha256": "f47e5a7dc7c9679b3920c193eed638b794fedd3cfe334aca7191e909ff6b4932",
+  "size": 203719288,
+  "notes": "Your agents at the top right are now clear cards - the job, what it's doing, how far it has got - that tidy themselves away when done. Click one to open that job.",
   "min_version": "",
-  "published": "2026-10-10T10:02:17+00:00"
+  "published": "2026-10-10T10:52:57+00:00"
 }
