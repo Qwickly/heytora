@@ -1,9 +1,9 @@
 {
-  "version": "1.7.9",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.9/Setup-HeyTora.exe",
-  "sha256": "769f8e2b2d021b3c2df6a16392b0a0187b2702947554302d40055da933208da8",
-  "size": 202181326,
-  "notes": "Chess and other board games: Tora's arrow now goes to the exact square she names (it could land one square off before).",
+  "version": "1.7.10",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.10/Setup-HeyTora.exe",
+  "sha256": "b6191b70eeba0a9ccd586c7ff3ea0caa252e0cea09820ceb863af0c52bc15869",
+  "size": 202216047,
+  "notes": "Chess: Tora now reads the game and an engine on your PC picks a legal, sound move (she could suggest moves a piece can't make before). Screen looks also give up sooner when Google is slow.",
   "min_version": "",
-  "published": "2026-10-10T13:08:41+00:00"
+  "published": "2026-10-10T15:18:46+00:00"
 }
