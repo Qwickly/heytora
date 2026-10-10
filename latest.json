@@ -1,9 +1,9 @@
 {
-  "version": "1.7.8",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.8/Setup-HeyTora.exe",
-  "sha256": "eed5c25ee1568b2c65fea4f4000bcf756aa007fb0fa49bc2271f580e511de8cd",
-  "size": 203728640,
-  "notes": "Your agents at the top right are small, lively circles again - an icon for each kind of job, a ring that fills as it works, and a little celebration when it's done. Hover for details, click to open the job.",
+  "version": "1.7.9",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.9/Setup-HeyTora.exe",
+  "sha256": "769f8e2b2d021b3c2df6a16392b0a0187b2702947554302d40055da933208da8",
+  "size": 202181326,
+  "notes": "Chess and other board games: Tora's arrow now goes to the exact square she names (it could land one square off before).",
   "min_version": "",
-  "published": "2026-10-10T11:53:57+00:00"
+  "published": "2026-10-10T13:08:41+00:00"
 }
