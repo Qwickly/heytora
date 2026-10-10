@@ -1,9 +1,9 @@
 {
-  "version": "1.7.5",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.5/Setup-HeyTora.exe",
-  "sha256": "d779b193f6c15be05a41b6f667549be44f2bd285cbc53faceb5bb6bf592da600",
-  "size": 203730945,
-  "notes": "Tora no longer goes quiet mid-answer when a session runs long, says straight away when she didn't catch you, and tells you plainly when the problem is on HeyTora's side.",
+  "version": "1.7.6",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.6/Setup-HeyTora.exe",
+  "sha256": "e0634a2b501cda147e3dacc061c70d7e96fdf664870beade731dc935acf8bedf",
+  "size": 203709932,
+  "notes": "Looking at your screen is much faster: about a second instead of many, with a backup model that takes over when Google's is busy.",
   "min_version": "",
-  "published": "2026-10-09T13:51:05+00:00"
+  "published": "2026-10-10T10:02:17+00:00"
 }
