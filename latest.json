@@ -1,9 +1,9 @@
 {
-  "version": "1.7.10",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.10/Setup-HeyTora.exe",
-  "sha256": "b6191b70eeba0a9ccd586c7ff3ea0caa252e0cea09820ceb863af0c52bc15869",
-  "size": 202216047,
-  "notes": "Chess: Tora now reads the game and an engine on your PC picks a legal, sound move (she could suggest moves a piece can't make before). Screen looks also give up sooner when Google is slow.",
+  "version": "1.7.11",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.11/Setup-HeyTora.exe",
+  "sha256": "202ee394fccd466f4db58e58d71efad4a719911d650a84e157c77ae5bbe6f91c",
+  "size": 203886518,
+  "notes": "Write for me: hold the shortcut and say what you want written - Tora types it into the box you're in, or replies to the Gmail email on screen (you check it and press Send). Hold the shortcut and trace over something with the mouse to show Tora what you mean. Ask her to turn a Word, Excel or PowerPoint file into a PDF and it's made in the background. Chess follows the game better.",
   "min_version": "",
-  "published": "2026-10-10T15:18:46+00:00"
+  "published": "2026-10-14T15:58:17+00:00"
 }
