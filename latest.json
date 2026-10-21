@@ -1,9 +1,9 @@
 {
-  "version": "1.7.11",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.11/Setup-HeyTora.exe",
-  "sha256": "202ee394fccd466f4db58e58d71efad4a719911d650a84e157c77ae5bbe6f91c",
-  "size": 203886518,
-  "notes": "Write for me: hold the shortcut and say what you want written - Tora types it into the box you're in, or replies to the Gmail email on screen (you check it and press Send). Hold the shortcut and trace over something with the mouse to show Tora what you mean. Ask her to turn a Word, Excel or PowerPoint file into a PDF and it's made in the background. Chess follows the game better.",
+  "version": "1.7.12",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.12/Setup-HeyTora.exe",
+  "sha256": "14ba786122db8786ff00b9dbd812c27d716240fa905c9034808405f4ece278ce",
+  "size": 183913399,
+  "notes": "Faster and steadier. Tora's voice is ready sooner after start-up and follows you when you switch to headphones or another mic. Web searches answer in seconds instead of 12 or more. 'Hey Tora' is heard on your PC itself - quicker and more private. Questions that got no answer are now answered, and pointing, tracing and walkthroughs are much quicker. Agent jobs are judged by the files they really made, pictures and PDFs render again, and the install is smaller.",
   "min_version": "",
-  "published": "2026-10-14T15:58:17+00:00"
+  "published": "2026-10-21T07:45:01+00:00"
 }
