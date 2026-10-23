@@ -1,9 +1,9 @@
 {
-  "version": "1.7.13",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.13/Setup-HeyTora.exe",
-  "sha256": "825a7fa615db4f2cca170c1f08ea3e15ae102e792602c7e0097ff97653bdb4b9",
-  "size": 183927717,
-  "notes": "Tora can now change what she wrote. Say 'make it shorter', 'no, say Thursday instead' or 'delete the last paragraph' and she rewrites the text in the box instead of adding more - or select a part and ask for just that to be changed. One Ctrl+Z brings the old text back. Asking again for an email reply now changes the one she wrote. Also: clearer messages about your plan's usage.",
+  "version": "1.7.14",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.14/Setup-HeyTora.exe",
+  "sha256": "f7b15ecd428a740fe957ea0cf2926da7e6f0070a56245c59540c33391200a51c",
+  "size": 184074978,
+  "notes": "Tora can now read your code editor directly. Connect VS Code, Cursor or Windsurf in Settings - Code editors, allow a project, and ask 'what's wrong?' or 'why did the build fail?': she answers from your errors, your terminal output and the code at your cursor, instead of a screenshot. Read-only, nothing is read until you allow it, secrets files are never read, and you can pause it or see exactly what was sent.",
   "min_version": "",
-  "published": "2026-10-23T19:08:31+00:00"
+  "published": "2026-10-23T20:37:48+00:00"
 }
