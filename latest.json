@@ -1,9 +1,9 @@
 {
-  "version": "1.7.12",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.12/Setup-HeyTora.exe",
-  "sha256": "14ba786122db8786ff00b9dbd812c27d716240fa905c9034808405f4ece278ce",
-  "size": 183913399,
-  "notes": "Faster and steadier. Tora's voice is ready sooner after start-up and follows you when you switch to headphones or another mic. Web searches answer in seconds instead of 12 or more. 'Hey Tora' is heard on your PC itself - quicker and more private. Questions that got no answer are now answered, and pointing, tracing and walkthroughs are much quicker. Agent jobs are judged by the files they really made, pictures and PDFs render again, and the install is smaller.",
+  "version": "1.7.13",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.13/Setup-HeyTora.exe",
+  "sha256": "825a7fa615db4f2cca170c1f08ea3e15ae102e792602c7e0097ff97653bdb4b9",
+  "size": 183927717,
+  "notes": "Tora can now change what she wrote. Say 'make it shorter', 'no, say Thursday instead' or 'delete the last paragraph' and she rewrites the text in the box instead of adding more - or select a part and ask for just that to be changed. One Ctrl+Z brings the old text back. Asking again for an email reply now changes the one she wrote. Also: clearer messages about your plan's usage.",
   "min_version": "",
-  "published": "2026-10-21T07:45:01+00:00"
+  "published": "2026-10-23T19:08:31+00:00"
 }
