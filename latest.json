@@ -1,9 +1,9 @@
 {
-  "version": "1.7.14",
-  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.14/Setup-HeyTora.exe",
-  "sha256": "f7b15ecd428a740fe957ea0cf2926da7e6f0070a56245c59540c33391200a51c",
-  "size": 184074978,
-  "notes": "Tora can now read your code editor directly. Connect VS Code, Cursor or Windsurf in Settings - Code editors, allow a project, and ask 'what's wrong?' or 'why did the build fail?': she answers from your errors, your terminal output and the code at your cursor, instead of a screenshot. Read-only, nothing is read until you allow it, secrets files are never read, and you can pause it or see exactly what was sent.",
+  "version": "1.7.15",
+  "url": "https://github.com/Qwickly/heytora/releases/download/v1.7.15/Setup-HeyTora.exe",
+  "sha256": "2d8abefae52ec0446b74325a337d77b61d7395ffc5b507d1b44073b8711b2e60",
+  "size": 184079736,
+  "notes": "Fixes reading your code editor, which did not start in 1.7.14. Escape now stops everything at once - her voice, typing, a walkthrough and every mark on screen. Jobs interrupted mid-action come back as 'Needs you' instead of repeating an action that may already have happened. Approvals cover exactly what you saw. Text from web pages, emails and files can no longer give Tora orders. 'Clear it' empties a box instantly.",
   "min_version": "",
-  "published": "2026-10-23T20:37:48+00:00"
+  "published": "2026-10-25T16:49:11+00:00"
 }
